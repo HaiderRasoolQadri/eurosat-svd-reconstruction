@@ -60,4 +60,4 @@ Increase the balanced sample toward the proposed 9,000 images (2,250 per class),
 
 ## Data and code attribution
 
-EuroSAT: Helber et al., *EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification*, IEEE J-STARS (2019). Dataset terms and attribution: see the official EuroSAT repository. No project software licence has been assigned here; team members can decide one before public code reuse.
+EuroSAT: Helber et al., *EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification*, IEEE J-STARS (2019). Dataset terms and attribution: see the official EuroSAT repository.
